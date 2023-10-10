@@ -1,0 +1,31 @@
+_repo: A-tragedy-of-love-and-hate-b-or-a-woman-s-vow_71769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clay, Bertha M.
+    alias: Dey, Frederic Van Rensselaer
+    birthdate: 1865
+    deathdate: 1922
+    gutenberg_agent_id: '56274'
+    url: http://www.gutenberg.org/2009/agents/56274
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Van_Rensselaer_Dey
+description: ''
+gutenberg_issued: '2023-10-01'
+identifiers:
+  gutenberg: '71769'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:679215#?c=&m=&s=&cv=&xywh=-114%2C-633%2C2261%2C4121
+pgterms:marc905: 20220331174001clay
+pgterms:marc906: '1899'
+pgterms:marc907: us
+production_note: Demian Katz, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1899, copyright 1900, copyright
+  1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A tragedy of love and hate : $b or, a woman''s vow'
+url: http://www.gutenberg.org/ebooks/71769
